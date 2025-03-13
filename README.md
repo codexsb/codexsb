@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm codexsb
+# 👋 Hey there!
 
 Welcome to my GitHub profile!  
 I enjoy building projects, learning new tech, and sharing ideas. Let's explore together 🚀
