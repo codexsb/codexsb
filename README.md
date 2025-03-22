@@ -19,11 +19,6 @@ I enjoy building projects, learning new tech, and sharing ideas. Let's build tog
         <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee Badge">
       </a>
     </td>
-    <td style="border: none; padding: 8px; text-align: center;">
-      <a href="https://www.youtube.com/@codexsb" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge">
-      </a>
-    </td>
   </tr>
 </table>
 
